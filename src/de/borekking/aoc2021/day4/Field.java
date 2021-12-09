@@ -1,4 +1,4 @@
-package day4;
+package de.borekking.aoc2021.day4;
 
 public class Field {
 

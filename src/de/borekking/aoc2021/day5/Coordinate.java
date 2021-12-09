@@ -1,4 +1,4 @@
-package day5;
+package de.borekking.aoc2021.day5;
 
 import java.util.Arrays;
 import java.util.Objects;

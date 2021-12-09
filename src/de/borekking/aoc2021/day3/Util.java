@@ -1,4 +1,4 @@
-package day3;
+package de.borekking.aoc2021.day3;
 
 public class Util {
 
